@@ -1,3 +1,1 @@
-'Hello Mikhail' 
-'Hello Mikhail' 
-echo"Hello Git";
+Hello, git!
