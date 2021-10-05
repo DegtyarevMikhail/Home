@@ -1,3 +1,1 @@
-new string!
-one more string
-and else
+Hello, git!
