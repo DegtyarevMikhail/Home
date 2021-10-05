@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+Hello, git!
+=======
 new string!
-one more string
-and else
+>>>>>>> a6e586d ('VKL')

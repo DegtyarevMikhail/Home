@@ -1,2 +1,9 @@
-'Hello Mikhail' 
-'Hello Mikhail' 
+<<<<<<< HEAD
+Hello, git!
+=======
+History
+1945
+1977
+1938
+1799
+>>>>>>> a6e586d ('VKL')
